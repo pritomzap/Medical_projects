@@ -11,9 +11,24 @@
         android:theme="@style/AppTheme">
         <activity android:name=".Activity_1">
             <intent-filter>
+                <action android:name="com.example.user.medical_projects.Activity_1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Health_packeges"
+            android:label="Health and packeges">
+            <intent-filter>
+                <action android:name="com.example.user.medical_projects.Health_packeges" />
+
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
     </application>
