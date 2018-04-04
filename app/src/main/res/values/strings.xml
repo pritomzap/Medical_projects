@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Medical_projects</string>
+    <string name="ask_a_doctor">ASK A DOCTOR</string>
+    <string name="search">Search by problem or symptom</string>
+    <string name="bag">Contrary to popular belief, Lorem Ipsum is not simply random text.There are many variations of passages of Lorem Ipsum available,</string>
+    <string name="views">12 minute age - 12 views</string>
+    <string name="mouth">Left side of my stomach is bigger</string>
+    <string name="last">Vajainal pain and abdominal pain</string>
+</resources>
